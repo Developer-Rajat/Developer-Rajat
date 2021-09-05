@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-rajat&label=Profile%20views&color=0e75b6&style=flat" alt="developer-rajat" /> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3 & JS**
+- 🌱 I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Developer-Rajat](https://github.com/Developer-Rajat)
+- 🌱 I currently mastered **Python**, **HTML**, **Javascript** & **CSS**.
+
+- 👨‍💻 All of my projects and code snippets are available at [https://github.com/Developer-Rajat](https://github.com/Developer-Rajat)
 
 - 📫 How to reach me **contactrajatrajput@gmail.com**
 
